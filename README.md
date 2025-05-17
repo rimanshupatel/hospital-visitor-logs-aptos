@@ -1,5 +1,7 @@
 # 🏥 Hospital Visitor Log on Aptos
 
+![Hospital Visitor Log](images/hospital_log.png)
+
 ## 📘 Project Description
 
 The **Hospital Visitor Log** is a lightweight Move smart contract designed to securely store and track patient visit records on the Aptos blockchain. Each patient's address acts as the key to their own visit count, allowing for tamper-resistant logging of hospital visits in a decentralized and transparent way.
